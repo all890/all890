@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h4 align="center">ฐานข้อมูล (IDEs)</h4>
+<h4 align="center">เครื่องมือพัฒนาโปรแกรม (IDEs)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio&theme=light" />
