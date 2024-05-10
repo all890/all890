@@ -8,4 +8,4 @@
 
 # ทักษะภาษาโปรแกรม (Programming Languages Skills) :desktop_computer:
 
-* Java <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+* Java <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="100" height="100">
