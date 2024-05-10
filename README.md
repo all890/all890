@@ -35,3 +35,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,postman&theme=light" />
   </a>
 </p>
+
+<h4 align="center">อินเทอร์เน็ตในสรรพสิ่ง (Internet of Things)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
+  </a>
+</p>
