@@ -15,35 +15,35 @@
   </a>
 </p>
 
-<h4 align="center">เฟรมเวิร์ก (Frameworks)</h4>
+<h4 align="left">เฟรมเวิร์ก (Frameworks)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,laravel,angular,nextjs,react,tailwind,bootstrap,flutter,hibernatel&theme=light" />
   </a>
 </p>
 
-<h4 align="center">ฐานข้อมูล (Databases)</h4>
+<h4 align="left">ฐานข้อมูล (Databases)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
   </a>
 </p>
 
-<h4 align="center">เครื่องมือพัฒนาโปรแกรม (IDEs & Tools)</h4>
+<h4 align="left">เครื่องมือพัฒนาโปรแกรม (IDEs & Tools)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,postman&theme=light" />
   </a>
 </p>
 
-<h4 align="center">เครื่องควบคุมการเปลี่ยนแปลง (Version Controls)</h4>
+<h4 align="left">เครื่องควบคุมการเปลี่ยนแปลง (Version Controls)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=light" />
   </a>
 </p>
 
-<h4 align="center">อินเทอร์เน็ตในสรรพสิ่ง (Internet of Things)</h4>
+<h4 align="left">อินเทอร์เน็ตในสรรพสิ่ง (Internet of Things)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
