@@ -11,6 +11,13 @@
 <h4 align="center">กลุ่มภาษาแกน (Computer Languages)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,laravel,angular,nextjs,react,tailwind,ts,js,c,flutter,dart,css,html,hibernate,mysql,vscode,androidstudio,java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,dart,css,html,java&theme=light" />
+  </a>
+</p>
+
+<h4 align="center">เฟรมเวิร์ก (Frameworks)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,laravel,angular,nextjs,react,tailwind,flutter,hibernate,mysql&theme=light" />
   </a>
 </p>
