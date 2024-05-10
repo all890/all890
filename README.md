@@ -8,4 +8,4 @@
 
 # ทักษะภาษาโปรแกรม (Programming Languages Skills) :desktop_computer:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
