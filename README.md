@@ -25,7 +25,7 @@
 <h4 align="left">ฐานข้อมูล (Databases)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
   </a>
 </p>
 
