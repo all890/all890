@@ -36,6 +36,13 @@
   </a>
 </p>
 
+<h4 align="center">เครื่องควบคุมการเปลี่ยนแปลง (Version Controls)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=light" />
+  </a>
+</p>
+
 <h4 align="center">อินเทอร์เน็ตในสรรพสิ่ง (Internet of Things)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
