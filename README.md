@@ -8,4 +8,4 @@
 
 # ทักษะภาษาโปรแกรม (Programming Languages Skills) :desktop_computer:
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30"> Java
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
