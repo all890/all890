@@ -8,7 +8,7 @@
 
 # ทักษะภาษาโปรแกรม (Programming Languages Skills) :desktop_computer:
 
-<h1 align="center">กลุ่มภาษาแกน (Computer Languages)</h1>
+<h4 align="center">กลุ่มภาษาแกน (Computer Languages)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,laravel,angular,nextjs,react,tailwind,ts,js,c,flutter,dart,css,html,hibernate,mysql,vscode,androidstudio,java&theme=light" />
