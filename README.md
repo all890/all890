@@ -18,7 +18,7 @@
 <h4 align="center">เฟรมเวิร์ก (Frameworks)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,laravel,angular,nextjs,react,tailwind,flutter,hibernate,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,laravel,angular,nextjs,react,tailwind,flutter,hibernatel&theme=light" />
   </a>
 </p>
 
@@ -26,5 +26,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+  </a>
+</p>
+
+<h4 align="center">ฐานข้อมูล (IDEs)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio&theme=light" />
   </a>
 </p>
