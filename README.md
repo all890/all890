@@ -8,4 +8,8 @@
 
 # ทักษะภาษาโปรแกรม (Programming Languages Skills) :desktop_computer:
 
-(https://skillicons.dev/icons?i=java) Java
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
